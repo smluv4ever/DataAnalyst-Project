@@ -1,2 +1,3 @@
-1. Portfolio Project - COVID is about analyzing the percentage of the people got COVID and vaccines based on the population per country and continient.
-2. Portfolio Projeft - NashvilleHousing is showing how to clean up the data with SQL. Original excel file is attached (Nashville Housing Data for Data Cleaning)
+1. Portfolio Project - COVID is about analyzing the percentage of the people got COVID and vaccines based on the population per country and continient. Original file attached (CovidDeaths.xlsx & CovidVaccinations.xlsx). Used Convert, Cast, NullIf, Max, Group By, Sum.
+2. Portfolio Projeft - NashvilleHousing is showing how to clean up the data with SQL. Original excel file is attached (Nashville Housing Data for Data Cleaning). Alterted the table (add and drop), used ParseName, Replace, Case, IsNull, Convert, and Update.
+3. Excel Project Dataset is a simple data clean up on excel. Created the pivot tables and graphs for the visualization.
